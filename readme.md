@@ -1,12 +1,12 @@
 1️⃣ **Requirement:** Confirm **.NET 8 SDK** is installed by running `dotnet --version`.
 
-2️⃣ **Get the code:** Clone your repository:
+2️⃣ **Get the code:** Clone repository:
 
 ```bash
 git clone https://github.com/MasterChief-Ayan/WFEngine.git
 ```
 
-3️⃣ **Move to the project folder:**
+3️⃣ **Set to the project folder:**
 
 ```bash
 cd Infonetica.WorkflowEngine

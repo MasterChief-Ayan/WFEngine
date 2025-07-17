@@ -1,0 +1,69 @@
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\appsettings.Development.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\appsettings.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.staticwebassets.endpoints.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.exe
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.deps.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.runtimeconfig.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.pdb
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.csproj.AssemblyReference.cache
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\rpswa.dswa.cache.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.AssemblyInfoInputs.cache
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.AssemblyInfo.cs
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.csproj.CoreCompileInputs.cache
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.MvcApplicationPartsAssemblyInfo.cs
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.MvcApplicationPartsAssemblyInfo.cache
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\rjimswa.dswa.cache.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\scopedcss\bundle\Infonetica.WorkflowEngine.styles.css
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets.build.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets.build.json.cache
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets.development.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infoneti.86AE6861.Up2Date
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\refint\Infonetica.WorkflowEngine.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.pdb
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.genruntimeconfig.cache
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\ref\Infonetica.WorkflowEngine.dll
+S:\Assignemnt\Info\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.sourcelink.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\appsettings.Development.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\appsettings.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\testing\WflowDefinition.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.exe
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.deps.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.runtimeconfig.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.dll
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Infonetica.WorkflowEngine.pdb
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.csproj.AssemblyReference.cache
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.AssemblyInfoInputs.cache
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.AssemblyInfo.cs
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.csproj.CoreCompileInputs.cache
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.MvcApplicationPartsAssemblyInfo.cs
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.MvcApplicationPartsAssemblyInfo.cache
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.sourcelink.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets.build.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets.development.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets\msbuild.Infonetica.WorkflowEngine.Microsoft.AspNetCore.StaticWebAssets.props
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets\msbuild.build.Infonetica.WorkflowEngine.props
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Infonetica.WorkflowEngine.props
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Infonetica.WorkflowEngine.props
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\staticwebassets.pack.json
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\scopedcss\bundle\Infonetica.WorkflowEngine.styles.css
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infoneti.86AE6861.Up2Date
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.dll
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\refint\Infonetica.WorkflowEngine.dll
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.pdb
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\Infonetica.WorkflowEngine.genruntimeconfig.cache
+F:\VS Docs\WebDev\WF_Engine\WorkflowEngine\Infonetica.WorkflowEngine\obj\Debug\net8.0\ref\Infonetica.WorkflowEngine.dll
